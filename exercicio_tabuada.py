@@ -1,7 +1,8 @@
-print('Tabuada')
+print('='*30)
+numero = int(input('Digite um númeto inteiro: '))
 print('='*30)
 
-numero = int(input('Digite um númeto inteiro: '))
+print('Tabuada')
 
 def tabuada ():
 
